@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The inward and spiritual Christian distinguished from the outward nominal and notional and a generation of men in these dais parallel'd with the scribes and pharisees of thos daies that profess, say, and do not, that persecute others for religion, but will not stand to it themselves : with an exhortation to people to come to the Spirit of God and truth in their hearts that in it they may worship the living God that made them.</title>
+            <author>Laythes, Thomas, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49836</idno>
+            <idno type="STC">Wing L752</idno>
+            <idno type="STC">ESTC R28773</idno>
+            <idno type="EEBO-CITATION">10758903</idno>
+            <idno type="OCLC">ocm 10758903</idno>
+            <idno type="VID">45683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The inward and spiritual Christian distinguished from the outward nominal and notional and a generation of men in these dais parallel'd with the scribes and pharisees of thos daies that profess, say, and do not, that persecute others for religion, but will not stand to it themselves : with an exhortation to people to come to the Spirit of God and truth in their hearts that in it they may worship the living God that made them.</title>
+                  <author>Laythes, Thomas, d. 1701.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Laythes.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Religious tolerance --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45683:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE INWARD AND SPIRITUAL CHRISTIAN DISTINGUISHED From the Outward Nominal and Notional.</p>
+            <p>AND A Generation of Men in theſe our Daies, parallel'd with the Scribes and Phariſees of thoſe Daies that Profeſs, Say and Do not. That Per<g ref="char:EOLhyphen"/>ſecute others for Religion, but will not ſtand to it themſelves.</p>
+            <p>WITH An EXHORTATION to People to come to the Spirit of God, and Truth in their Hearts, that in it they may Worſhip the Living God that made them.</p>
+            <q>
+               <p>We know that the Son of God is come, and hath given us an underſtanding, that we know Him that is true: and we are in Him that is true, in His Son Jeſus Chriſt. This is the true God, and Eternal Life,</p>
+               <bibl>1 John 5.20.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, MDCLXXXIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45683:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:45683:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>The Inward and Spiritual Christian diſtinguiſhed from the Outward Nominal and Notional, <hi>&amp;c.</hi>
+            </head>
+            <p>AS I was deeply exerciſed in my Spirit upon the things of God, and His true ſpiritual Worſhip, that place was brought to my re<g ref="char:EOLhyphen"/>membrance in the 5th of <hi>John</hi> 40. <hi>Ye will not come to me, that ye might have Life;</hi> it is Chriſt's Words unto the Jews, which methinks doth much reſemble the ſtate and condition of many of the People of this Age in which we live; who, like the hard-hearted Jews, are unwilling to come unto Chriſt, yet think themſelves Chriſtians, and would be counted ſuch; but how few do come to wait for His Spirit, that they may be led and guided thereby, and worſhip God therein; out of which no other worſhip is ac<g ref="char:EOLhyphen"/>cepted with him. As Chriſt ſaid to the Woman of <hi>Sa<g ref="char:EOLhyphen"/>maria, John</hi> 4. when ſhe ſpake of worſhip in the Mount, and in <hi>Jeruſalem, Ye worſhip ye know not what; The hour cometh, and now is, when the true Worſhippers ſhall wor<g ref="char:EOLhyphen"/>ſhip the Father in Spirit and in Truth: for the Father ſeeketh ſuch to worſhip him. God is a Spirit, and they that worſhip him, muſt worſhip him in Spirit and in Truth.</hi> O how plain and undeniable are Chriſt's words here, if People were not wilfully blind; but alas, how few do worſhip God thus, but rather in dead Forms and outward Obſervations, out of the Power and Spirit of the living God, and in bodily exerciſe that profiteth
+<pb n="2" facs="tcp:45683:3"/>
+               <!-- PDF PAGE 3 -->little. Nay, are there not too many do ſlight the Spi<g ref="char:EOLhyphen"/>rit, and ſpeak lightly of it; others limit it, and ſome are grown ſo bold and impudent as to ſcoff thereat, as if no ſuch thing were to be expected in this Age we live in; and how far are ſuch degenerated from the life and practiſe of the Holy Men of old, that ſpake as they were moved by the Holy Ghoſt, 2 <hi>Pet.</hi> 1. and in <hi>Rom.</hi> 8. how expreſly there the Apoſtle ſaith, <hi>If any man have not the Spirit of Chriſt, he is none of His: and the Spirit helpeth our infirmities with groanings that cannot be uttered.</hi>—And let us but ſearch the Scriptures and we ſhall find how ſtrict the Scribes and Phariſees were about outward things, and outward worſhip; Chriſt's greateſt enemies while he was in the body, and how often were they ready to Judge him herein, not<g ref="char:EOLhyphen"/>withſtanding thoſe many great and wonderful Miracles he did: in opening the eyes of the Blind, and curing other Diſeaſes and infirmities on the Sabbath Day, yet, ſay the Phariſees, <hi>This man is not of God, becauſe he keepeth not the Sabbath;</hi> and how ſtrict were they in paying Tythe of Mint, Annis and Cummin; and yet omitted the weighty matters of the Law, as Judgment, Mercy and Faith, and made clean the outſide of the Cup and Platter, while within full of Extortion and Exceſs. How many woes doth Chriſt pronounce againſt them; read <hi>Matth.</hi> 23. And in that Day and Age how did the Lord raiſe up a poor diſpiſed People to bear witneſs to his Truth, of whom the Phariſees ſay, <hi>Have any of the Rulers believed in him;</hi> but a People that know not the Law are curſed. And what great Perſecutions, Impriſonments, and cruel Sufferings did they undergo for their Teſtimony; as Chriſt himſelf had foretold them ſaying, <hi>They ſhall put you out of the
+<pb n="3" facs="tcp:45683:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 3 -->Synagogue, yea, the time cometh, that he that killeth you, will think he doth God Service;</hi> and how was this ful<g ref="char:EOLhyphen"/>filled after in his faithful Followers; read the <hi>Acts</hi> at large; and theſe were they in that Age did often meet together to wait upon and worſhip God <hi>in Spirit and in Truth,</hi> and were ſeparated from the World; the Worſhip Miniſtry and Temple, and did bear a faithful Teſtimony againſt them. For which Teſtimony <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> was ſtoned to death, who teſtified ſaying, <hi>God dwells not in Temples made with Hands, neither is wor<g ref="char:EOLhyphen"/>ſhipped with mens Hands.</hi> And after his Death moſt of Chriſt's Apoſtles ſuffered Martyrdom, for their Teſti<g ref="char:EOLhyphen"/>mony ſealing it with their blood. According to Chriſt's Example who was gone before them. And after the Apoſtles time how valiant and noble were the antient and Primitive Chriſtians; and what great Sufferings and cruel Deaths were they put to by the Heathen; in the firſt three hundred years after Chriſt, for their confeſſi<g ref="char:EOLhyphen"/>on to His Name. And ſince that time for many years by the Papiſts and others for their Teſtimony; altoge<g ref="char:EOLhyphen"/>ther out of Chriſt's Spirit and Doctrine, who came not to deſtroy mens lives but to ſave them. And as it hath been in former Ages, ſo alſo in the Age of which we live.—Wherein God in his infinite Love and rich Mercy, hath raiſed up a People to bear a faithful Teſti<g ref="char:EOLhyphen"/>mony for him againſt the Spirit of the World, the Forms, Faſhions and Cuſtoms thereof, their Worſhip, Miniſtry and Maintenance by Tythes. And what im<g ref="char:EOLhyphen"/>priſoning of Bodies and ſpoiling of Goods hath been theſe divers years, and that for no other cauſe but peacea<g ref="char:EOLhyphen"/>bly Meeting together, to wait upon and worſhip God <hi>in Spirit and in Truth.</hi> And bearing a faithful Teſtimo<g ref="char:EOLhyphen"/>ny for him, as he hath perſwaded our<g ref="char:punc">▪</g> hearts accord<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:45683:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 4 -->to the Antient, Chriſtian, Primitive practice, both in Chriſt's time, and in the Apoſtles time, and ſince the Apoſtles time, until this Age, and in this Age in which we live; and if for this good cauſe we ſuffer, we have no reaſon to be diſcouraged, in that we ſuffer for righ<g ref="char:EOLhyphen"/>teouſneſs ſake. And ſure the Lord will take our part, and plead our innocent caſe with all our Adverſaries. And of late time, how much hath been about Confor<g ref="char:EOLhyphen"/>mity to the Publick Worſhip, and ſuch as could not Conform for Conſcience ſake; how liable are they to be made a prey of by wicked and ungodly Informers, and ſuch as regard no Religion at all, but ſelf ends and worldly intereſts; and ſuch do Conform tho in Hypo<g ref="char:EOLhyphen"/>criſie, how do they eſcape. And tho we eat the bread of Adverſity, and drink the water of Affliction, yet the Lord our God, by his holy Spirit and Grace is be<g ref="char:EOLhyphen"/>come our Teacher, and upon him do we wait, and in him only do we put our Truſt, for he hath been our helper and deliverer in our greateſt need.</p>
+            <p>And praiſes to the Lord that hath appeared in the Aſſemblies of His People to their great Joy and Peace, comfort and refreſhment inwardly and ſpiritually, and how hath the Lord hereby engaged a little Remnant to follow him whitherſoever he goes, through good report and bad; and we cannot confeſs him before men, and ſuch will He confeſs before His Father which is in Heaven, bleſſed be his Name for evermore.</p>
+            <p>And now all People come try and examine your ſelves, if ye be yet ſeparated from the World, their vain Faſhions, Cuſtoms and worſhips thereof, and ſo come to wait for the Spirit, and worſhip God in the Spirit and in the Truth. Come to the Grace that ye may be taught thereby, which <hi>teacheth to deny ungodli<g ref="char:EOLhyphen"/>neſs
+<pb n="5" facs="tcp:45683:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 4 -->and worldly luſts, and to live righteouſly, ſoberly, and godly in this preſent world.</hi> And ſo the Law written in the heart, the New Covenant, and ſerve and worſhip God in the newneſs of the Spirit, and not in the oldneſs of the Letter, for the Letter killeth, but the Spirit giveth Life.—And now all you Profeſſors which have made ſo great a profeſſion of God and Chriſt, Duties and Ordinances, come ye unto Chriſt the or<g ref="char:EOLhyphen"/>dained of God for Life and Salvation, and joyn unto him with your whole hearts, and deny your ſelves, and take up his Croſs and follow him, without which none can be his Diſciple; but how is your Zeal and tenderneſs of conſcience decayed in many of you, who once ſeemed ſtrict and zealous in your way, and con<g ref="char:EOLhyphen"/>ſtant in meeting together, to worſhip and ſerve God ac<g ref="char:EOLhyphen"/>cording to your belief; but now how cold and con<g ref="char:EOLhyphen"/>formable are you grown, having forſaken the Aſſem<g ref="char:EOLhyphen"/>bling your ſelves together, and now obſerve and pra<g ref="char:EOLhyphen"/>ctiſe what once you ſeemed to bear a Teſtimony againſt, uſing ſhifts, evaſions and excuſes therefore, which will be a covering too narrow in the day of the Lord. And how alſo have ſeveral of the Teachers and Leaders of the People, ſome conformed, and others gone and left their Flocks upon the very report of Perſecution, before they ſuffered either Impriſonment or ſpoiling of Goods; and thus they have diſhonoured themſelves, and diſcovered great Hypocriſie and diſſimulation in their Profeſſion. And may it not be rightly ſaid of ſuch Teachers and People as the Prophet ſaid of one, like People, like Prieſt; <hi>But I will puniſh them for their waies, and reward them their doings, ſaith the Lord.</hi> And thus they have fled from the <hi>Croſs</hi> they ſhould have taken up, and muſt be taken up before they be Chriſt's
+<pb n="6" facs="tcp:45683:5"/>
+               <!-- PDF PAGE 5 -->Diſciples, and readily and truly worſhip god in Spirit and in Truth.</p>
+            <p>And bleſſed be the God of Heaven that hath raiſed up a ſeed in our day, that cannot bow nor bend to any thing, but to the Name of <hi>Jeſus</hi> only, to which let every knee bow, and every tongue confeſs, who is the Rock of Ages, and the Foundation of all the Ge<g ref="char:EOLhyphen"/>nerations of the righteous in all Ages: To whom with God the Father be Glory and Honour, both now and for evermore. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>Given forth in the fear and dread of the Lord, and in the travail of Spi<g ref="char:EOLhyphen"/>rit for the ſake of ſuch, and in love to their Souls, as may have any true de<g ref="char:EOLhyphen"/>ſires after God and His Truth.</dateline> 
+               <signed>From one who hath Love and good will to all men, <hi>Thomas Laythes.</hi>
+               </signed>
+               <dateline>From <hi>Dailehead</hi> in <hi>Cumberland,</hi> (83.)</dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
